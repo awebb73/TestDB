@@ -5,7 +5,6 @@ GO
 CREATE TABLE [dbo].[student_major] (
 		[student_id]     [varchar](15) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
 		[major_id]       [varchar](15) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
-		[test]           [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 		CONSTRAINT [PK_student_major]
 		PRIMARY KEY
 		CLUSTERED
