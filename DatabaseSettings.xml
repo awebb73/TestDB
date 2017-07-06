@@ -3,5 +3,5 @@
   <ServerVersion>Sql2016</ServerVersion>
   <ServerName>BUD-PC</ServerName>
   <DatabaseName>TestDB</DatabaseName>
-  <DatabaseInformation Version="3" />
+  <DatabaseInformation Version="4" />
 </DatabaseSettings>
